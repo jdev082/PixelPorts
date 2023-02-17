@@ -10,4 +10,6 @@ A list of apps that bring Google Pixel features to other Android devices.
 [Pixel-like Wallpaper](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) \
 [Pixel Google Searchy Bar](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) \
 [KWGT for Google Weather Widget](https://play.google.com/store/apps/details?id=org.kustom.widget) \
-[Conversations Widget](https://play.google.com/store/apps/details?id=rk.android.app.android12_notificationwidget) 
+[Conversations Widget](https://play.google.com/store/apps/details?id=rk.android.app.android12_notificationwidget) \
+[Pixel Voice Recorder](https://www.apkmirror.com/apk/google-inc/google-recorder/google-recorder-1-0-271580629-release/google-recorder-1-0-271580629-android-apk-download/download/?key=42cfb05c2aff74717fae7957eab8bd5518a02d5c)
+[Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en_IN)
