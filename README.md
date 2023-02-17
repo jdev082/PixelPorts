@@ -1,5 +1,7 @@
 # PixelPorts
 A list of apps that bring Google Pixel features to other Android devices.
+# Submission
+If you are submitting a new app, create a new issue with the **New Application** template
 
 [Quick Tap - Tap gestures on the back of your phone](https://github.com/KieronQuinn/TapTap/releases/latest) \
 [Shazam - Now playing](https://play.google.com/store/apps/details?id=com.shazam.android) \
