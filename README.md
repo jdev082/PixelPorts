@@ -1,3 +1,4 @@
+**Other Links: [Sources](Sources.md) [Add an App](https://github.com/jdev082/PixelPorts/issues/new?assignees=jdev082&labels=application&template=submit-an-application.md&title=Add+%5BNAME%5D+to+the+list)
 # PixelPorts
 A list of apps that bring Google Pixel features to other Android devices.
 # Submission
